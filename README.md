@@ -6,7 +6,7 @@
 
 <div style="display: flex; justify-content: center; ">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waiphyo285&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Github Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiphyo285&layout=compact&exclude_lang=CSS&theme=vue-dark" alt="Top Langs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiphyo285&layout=compact&&hide=html,css,scss,blade,pug&theme=vue-dark" alt="Top Langs">
 </div>
 
 
